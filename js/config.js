@@ -1,10 +1,10 @@
 window._config = {
     cognito: {
-        userPoolId: 'eu-west-1_JTi25cDVB',
-        userPoolClientId: '5qi4adsulhj6c35qgngict3car',
-        region: 'eu-west-1'
+        userPoolId: 'eu-west-2_Y4stZ2cv3',
+        userPoolClientId: '4ue1a12a99o19qg9nhan3jt8k0',
+        region: 'eu-west-2'
     },
     api: {
-        invokeUrl: 'https://k2cdp5ols3.execute-api.eu-west-1.amazonaws.com/prod'
+        invokeUrl: ''
     }
 };
