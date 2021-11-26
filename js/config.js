@@ -5,6 +5,6 @@ window._config = {
         region: 'eu-west-2'
     },
     api: {
-        invokeUrl: ''
+        invokeUrl: 'https://aasnfc2suk.execute-api.eu-west-2.amazonaws.com/prod'
     }
 };
